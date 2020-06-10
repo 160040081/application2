@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_480060_app2.vizagcentral" name="x_480060_app2.vizagcentral">c8445cc207805010c070f1e08c1ed0bd</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-09 13:46:07</sys_created_on>
+        <sys_id>7644d04607805010c070f1e08c1ed071</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c8445cc207805010c070f1e08c1ed0bd</sys_name>
+        <sys_package display_value="App2" source="x_480060_app2">17301c8e078c1010c070f1e08c1ed02f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App2">17301c8e078c1010c070f1e08c1ed02f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7644d04607805010c070f1e08c1ed071</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-09 13:46:07</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
